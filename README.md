@@ -12,7 +12,7 @@ npm install --save-dev @nharox/astro-prettier-config
 
 2. Update `package.json`
 
-```json
+```js
 {
   // ...
   "prettier": "@nharox/astro-prettier-config"
