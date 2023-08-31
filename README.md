@@ -1,6 +1,6 @@
 # @nharox/astro-prettier-config
 
-Shared [Prettier v3+](https://prettier.io/) config for [Astro](https://astro.build/) projects.
+Shared [Prettier v3](https://prettier.io/) config for [Astro v3](https://astro.build/) projects.
 
 ## Installation
 
